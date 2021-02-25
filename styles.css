@@ -1,0 +1,68 @@
+body{
+  background: green;
+  font-family: helvetica, arial, sans-serif;
+  color: yellow;
+  margin: 0;
+}
+img{
+  width: 40%;
+}
+
+.cover{
+  background-image: url(images/travis-scott-and-kendrick-lamar.jpg);
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  margin: 1%;
+}
+
+a{
+
+ color: orange;
+ text-decoration: none;
+}
+h3{
+  color: blue;
+}
+
+.center{
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+h1{
+  border: purple 3px solid;
+}
+
+h2{
+  border: purple 3px solid;
+}
+
+a{
+  border: red 2px solid;
+}
+
+body{
+  border: green 4px solid;
+  margin: 0;
+}
+
+ol{
+  border: white 2px solid;
+  padding: 2%;
+  margin: auto;
+  width: 80%;
+}
+
+li{
+  border-bottom: white 2px solid;
+  padding: 5px;
+  width: 90%;
+  margin: auto;
+}
