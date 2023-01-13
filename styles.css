@@ -1,5 +1,5 @@
 body{
-  background: green;
+  background: black;
   font-family: helvetica, arial, sans-serif;
   color: yellow;
   margin: 0;
@@ -9,8 +9,8 @@ img{
 }
 
 .cover{
-  background-image: url(images/travis-scott-and-kendrick-lamar.jpg);
-  height: 700px;
+  background-image: url(images/collage-spotify.png);
+  height: 500px;
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
@@ -21,6 +21,9 @@ h1{
   margin: 1%;
 }
 
+h2{text-align: center;}
+
+
 a{
 
  color: orange;
@@ -28,8 +31,10 @@ a{
 }
 h3{
   color: blue;
+  text-align: center;
 }
 
+p{text-align: center;}
 .center{
   width: 100%;
   margin: auto;
@@ -49,7 +54,7 @@ a{
 }
 
 body{
-  border: green 4px solid;
+  border: black 4px solid;
   margin: 0;
 }
 
@@ -65,4 +70,5 @@ li{
   padding: 5px;
   width: 90%;
   margin: auto;
+  text-align: center;
 }
